@@ -1,4 +1,4 @@
-Name: Hamida Hagverdiyeva
+*Name:* Hamida Hagverdiyeva
 
 Email: hamida.hagverdiyeva@gwmail.gwu.edu
 
