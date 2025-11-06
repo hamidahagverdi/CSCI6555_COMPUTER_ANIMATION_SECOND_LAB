@@ -30,7 +30,7 @@ MyEventListener.h     MyEventListener.cpp
 
 Compilation
 To compile the project, navigate to the project directory and run:
-```g++ -std=c++11 main.cpp EulerAngle.cpp Quaternion.cpp Function.cpp GlobalVariables.cpp Torso.cpp LeftLeg.cpp RightLeg.cpp MyEventListener.cpp -o hierarchical -framework OpenGL -framework GLUT```
+``` g++ -std=c++11 main.cpp EulerAngle.cpp Quaternion.cpp Function.cpp GlobalVariables.cpp Torso.cpp LeftLeg.cpp RightLeg.cpp MyEventListener.cpp -o hierarchical -framework OpenGL -framework GLUT ```
 
 Running the Program
 After successful compilation, run:
